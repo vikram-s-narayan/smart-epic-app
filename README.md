@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-A super simple version of a SMART on FHIR app that integrates with Epic.
+# A super simple version of a SMART on FHIR app that integrates with Epic.
 
 To try the app:
 
